@@ -1,6 +1,9 @@
 # FoB Hackathon 2020, ML Challenge
 ## Fantastic 5
 
+[embed]Documents/f5-dashboard.pdf[/embed]
+[embed]https://psychodramaaustralia.edu.au/sites/default/files/falling_in_love-aron.pdf[/embed]
+
 # Demo application - https://datastudio.google.com/s/qRyMPSH5YFQ
 
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/c925b762-754a-4be3-8857-13e2854094c6/page/GJikB" frameborder="0" style="border:0" allowfullscreen></iframe>
