@@ -35,6 +35,6 @@ This was a team project for the FoB Hackathon 2020, ML Challenge. We were a grou
 ## The Pipeline
 ![](images/pipeline.png)
 
-A loooot more could have ben done. Some half baked ideas of ours are [here](/Documents/FoB Workspace%20-%20Fantastic%205.xlsx)
+A loooot more could have ben done. Some half baked ideas of ours are [here](/Documents/FoB%20Workspace%20-%20Fantastic%205.xlsx)
 <br>[Inspiration](https://databricks.com/notebooks/esg_notebooks/01_esg_report.html) for LDA topic modelling. See Stages 1-3.
 https://github.com/mukut03/ESG-BERT
