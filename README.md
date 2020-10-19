@@ -2,6 +2,7 @@
 This was a team project for the FoB Hackathon 2020, ML Challenge. We were a group of 5.
 
 ## The Use Case
+- HNIs are defined as individuals having net worth of > 5 million USD. These high profile individuals are still significant in number and are often in need of wealth management for their businesses or family offices.
 - Create an AI/ML based platform to enable identification of potential prospects for Wealth Management leveraging News & Social Analytics.
 - Using NLP & Clustering Techniques to identify topic of interests for a group of prospects
 - Profiling the prospects using Publicly Available Social Media Data.
