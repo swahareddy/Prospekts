@@ -1,12 +1,10 @@
 # FoB Hackathon 2020, ML Challenge
-## Fantastic 5
-
-[embed]Documents/f5-dashboard.pdf[/embed]
-[embed]https://psychodramaaustralia.edu.au/sites/default/files/falling_in_love-aron.pdf[/embed]
-
+This was a team project, a group of 5. We had some amazing guys putting togetehr the network graph and topic modelling.
 # Demo application - https://datastudio.google.com/s/qRyMPSH5YFQ
 
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/c925b762-754a-4be3-8857-13e2854094c6/page/GJikB" frameborder="0" style="border:0" allowfullscreen></iframe>
+![](images/screen2.jpg)
+![](images/screen3.jpg)
+![](images/screen4.jpg)
 
 ## The Use Case
 - Create an AI/ML based platform to enable identification of potential
